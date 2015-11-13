@@ -3,3 +3,4 @@ lib/
 Workday.log
 .classpath
 .project
+.gitignore
