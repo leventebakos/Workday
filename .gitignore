@@ -1,0 +1,5 @@
+bin/
+lib/
+Workday.log
+.classpath
+.project
